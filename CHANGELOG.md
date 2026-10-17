@@ -2,6 +2,7 @@
 
 ## xxxx/yy/zz Version 15.0.0
 
+- 🤖 Add repository guidance for AI-assisted contributions
 - 🤖 Ensure `AsyncIOEventEmitter.wait_for_complete` waits for handlers emitted by running handlers, including asynchronous error handlers
 - New AI code assisted policies put in place
 
